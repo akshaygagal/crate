@@ -3,3 +3,6 @@ lerna create [package-name ex: common-ui-button]
 
 Add new library package like react in package
 lerna add [package-name ex: react] [where want to add ex: package/common-ui-button]
+
+Publish new package without git
+lerna publish --force-publish=@crate/common-ui-button --no-git-tag-version --no-push
