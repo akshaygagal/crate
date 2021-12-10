@@ -6,3 +6,5 @@ lerna add [package-name ex: react] [where want to add ex: package/common-ui-butt
 
 Publish new package without git
 lerna publish --force-publish=@crate/common-ui-button --no-git-tag-version --no-push
+
+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
