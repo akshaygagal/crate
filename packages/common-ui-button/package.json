@@ -1,6 +1,6 @@
 {
   "name": "@crate/common-ui-button",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Common ui button",
   "main": "lib/common-ui-button.js",
   "directories": {
@@ -15,6 +15,5 @@
   "dependencies": {
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
-  },
-  "gitHead": "ef6657550fc556e4dc72be52199c0f4c6dd9ee79"
+  }
 }
