@@ -1,0 +1,5 @@
+Create new package name
+lerna create [package-name ex: common-ui-button]
+
+Add new library package like react in package
+lerna add [package-name ex: react] [where want to add ex: package/common-ui-button]

@@ -1,0 +1,19 @@
+{
+  "name": "@crate/common-ui-button",
+  "version": "1.0.0",
+  "description": "Common ui button",
+  "main": "lib/common-ui-button.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
