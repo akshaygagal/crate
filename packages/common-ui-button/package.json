@@ -15,5 +15,6 @@
   "dependencies": {
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
-  }
+  },
+  "gitHead": "9718f075575845aec668f5ddc646fd8105f2f07c"
 }
