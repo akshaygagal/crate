@@ -1,6 +1,6 @@
 {
   "name": "@crate/common-ui-button",
-  "version": "0.0.11",
+  "version": "0.0.12",
   "description": "Common ui button",
   "main": "lib/common-ui-button.js",
   "directories": {
