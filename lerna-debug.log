@@ -1,5 +1,6 @@
 40 error Error: Command failed with exit code 128: git push --follow-tags --no-verify --atomic origin main
-40 error remote: Invalid username or password.
+40 error remote: Support for password authentication was removed on August 13, 2021. Please use a personal access token instead.
+40 error remote: Please see https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/ for more information.
 40 error fatal: Authentication failed for 'https://github.com/akshaygagal/crate.git/'
 40 error     at makeError (/home/akshay/.nvm/versions/node/v12.14.1/lib/node_modules/lerna/node_modules/execa/lib/error.js:60:11)
 40 error     at handlePromise (/home/akshay/.nvm/versions/node/v12.14.1/lib/node_modules/lerna/node_modules/execa/index.js:118:26)
