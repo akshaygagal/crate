@@ -1,7 +1,9 @@
 {
   "name": "root",
+  "private": false,
   "publishConfig": {
-    "access": "public"
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
   },
   "devDependencies": {
     "lerna": "^4.0.0"
