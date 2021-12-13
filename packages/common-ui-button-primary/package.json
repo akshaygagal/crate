@@ -1,0 +1,30 @@
+{
+  "name": "common-ui-button-primary",
+  "version": "0.0.20",
+  "description": "> TODO: description",
+  "author": "akshaygagal <akshaygagal999@gmail.com>",
+  "homepage": "https://github.com/akshaygagal/crate#readme",
+  "license": "ISC",
+  "main": "lib/common-ui-button-primary.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akshaygagal/crate.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/akshaygagal/crate/issues"
+  },
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
